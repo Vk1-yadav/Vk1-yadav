@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vk1-yadav
 - 👀 I’m interested in Comptative Programming.
-- 🌱 I’m currently pursuing my B.TECH 2ndyear cs branch.
+- 🌱 I’m currently pursuing my B.TECH cs/2024 branch/batch.
 - 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me akash2286532@gmail.com .
+- 📫 How to reach me vk.official678710@gmail.com .
 
 <!---
 Vk1-yadav/Vk1-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
